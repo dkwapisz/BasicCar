@@ -1,2 +1,2 @@
-# BasicCar
+# Basic Car Simulator
 Basic Car simulator - Java
